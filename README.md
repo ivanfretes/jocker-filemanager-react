@@ -11,8 +11,9 @@ Para utilizar este paquete es necesario implementar el API escrito en cualquiera
 
 Importar Componente
 ```sh
-  npm install section-filemanager-react
+  $ npm install section-filemanager-react
 ```
+
 
 ### Ejemplo
 
@@ -76,3 +77,6 @@ Implementación básica
 
 ### Por hacer
 - Agregar atributo typeOption="select|row|listFormat:image|listFormat:table" (Para indicar el formato de salida/vista del componente)
+- Paquete para django y ruby
+- Para otros frameworks
+- Agregar Test
