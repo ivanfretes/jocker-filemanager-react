@@ -7,6 +7,13 @@ Para utilizar este paquete es necesario implementar el API escrito en cualquiera
 - Python/Django [section-file-manager-django](#) 
 - Ruby/Rails [section-file-manager-rails](#) 
 
+### Instalación
+
+Importar Componente
+```sh
+  npm install section-filemanager-react
+```
+
 ### Ejemplo
 
 Importar Componente
