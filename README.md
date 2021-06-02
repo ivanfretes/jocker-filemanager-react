@@ -9,7 +9,7 @@ Para utilizar este paquete es necesario implementar el API escrito en cualquiera
 
 ### Ejemplo
 
-Importar libreria
+Importar Componente
 ```js
   import SectionFileManager from SectionFileManager
 ```
