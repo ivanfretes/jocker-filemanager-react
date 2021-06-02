@@ -43,7 +43,9 @@ Implementación básica
   </tr>
   <tr>
     <th>urlGetOption</th>
-    <th>Listado de opciones disponibles definidas en API</th>
+    <th>
+      Listado de opciones disponibles definidas en API. Etiqueta option
+    </th>
     <th>String</th>
     <th>Simple</th>
     <th>--</th>
